@@ -42,10 +42,7 @@ To compare the full life cycle impacts (cradle to grave) of different scooter ty
 - Need for better LCA data in the future
 
 ## 🧑‍🤝‍🧑 Contributors
-- Abdullah Alasmari  
-- Abdulrazak Aljogham  
-- Abdulaziz Alkahtani  
-- Abdullah Alsaleh  
+- **Abdullah Alasmari**    
 - **Mohammed Alyami**
 
 ---
